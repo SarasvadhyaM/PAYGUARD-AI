@@ -1,0 +1,7 @@
+This prototype is designed to work with configurable open-weight models. Please review and comply with the license for the exact model you configure.
+
+Examples include:
+- Ollama model licenses vary by model family and must be checked separately.
+- Some lightweight open-weight models may carry Apache 2.0, MIT, or model-specific usage restrictions.
+
+This repository does not ship model weights or a model license by default. The application must be configured to use a legally compatible model from a trusted provider.
